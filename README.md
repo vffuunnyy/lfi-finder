@@ -4,6 +4,8 @@
 
 LFI Finder is a Python package designed to help identify Local File Inclusion (LFI) vulnerabilities in web applications.
 
+![image 2](https://github.com/user-attachments/assets/78c855e5-bcf9-40cf-8da2-873237f55d6f)
+
 ## Features
 
 - Scans web applications for potential LFI vulnerabilities
