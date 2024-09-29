@@ -16,7 +16,7 @@ LFI Finder is a Python package designed to help identify Local File Inclusion (L
 To install LFI Finder, run the following command:
 
 ```bash
-pip install git+https://github.com/vffuunnyy/lfi-finder.git
+pip install https://github.com/vffuunnyy/lfi-finder/archive/main.zip
 ```
 
 ```bash
@@ -26,7 +26,8 @@ pipx install git+https://github.com/vffuunnyy/lfi-finder.git
 ## Usage
 
 ```bash
-usage: __main__.py [-h] [-u URL] [-o OUTPUT] [-l LIST] [-t THREADS] [-s SLEEPTIME]
+vfny@archlinux ~ > lfinder --help
+usage: lfinder [-h] [-u URL] [-o OUTPUT] [-l LIST] [-t THREADS] [-s SLEEPTIME]
 
 LFI Finder Tool
 
